@@ -1,0 +1,22 @@
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# Arduino/Placas
+*.hex
+*.elf
+
+# Mac e Linux
+.DS_Store
+*.log
+*.tmp
+
+# Pastas ocultas de IDE
+.vscode/
+.idea/
+
+# Arquivos sensíveis
+*.env
